@@ -41,8 +41,16 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+### 🧠 ML & AI Libraries  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
@@ -65,7 +73,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 - Trained on **7,000+ custom problems** and benchmarked with Transformer architectures.
 
 ### 🔹 [Personal Stock Assistant](#)
-**Tech:** MERN, Google Sheets API  
+**Tech:** MERN, Google Sheets  
 - A personal finance tracker offering **investment insights** and **real-time updates**.  
 - Integrated Google Sheets API for data synchronization and record management.
 
