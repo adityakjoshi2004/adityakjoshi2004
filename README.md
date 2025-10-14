@@ -103,7 +103,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakjoshi2004&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakjoshi2004&layout=compact&theme=tokyonight&count_private=true" height="165"/>
 </p>
 
 ---
