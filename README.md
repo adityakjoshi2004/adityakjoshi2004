@@ -94,6 +94,8 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 👨‍💼 **Non-Tech Team Lead**, Google Developers Group (GDG) on Campus  
 🎤 **Curation Team Lead**, Bad Talks  
 
+<p align="center"> <a href="https://holopin.io/@adityakjoshi2004"> <img src="https://holopin.me/adityakjoshi2004" alt="@adityakjoshi2004 Holopin board"/> </a> </p>
+
 ---
 
 ## 📈 GitHub Stats  
