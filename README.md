@@ -79,6 +79,10 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 
 ---
 
+<p align="center"> <a href="https://holopin.io/@adityakjoshi2004"> <img src="https://holopin.me/adityakjoshi2004" alt="@adityakjoshi2004 Holopin board"/> </a> </p>
+
+---
+
 ## 🎓 Education  
 
 🎓 **Bachelor of Technology (CSE)**  
@@ -93,8 +97,6 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 🏆 Certified in **Database Management Systems (DBMS)**  
 👨‍💼 **Non-Tech Team Lead**, Google Developers Group (GDG) on Campus  
 🎤 **Curation Team Lead**, Bad Talks  
-
-<p align="center"> <a href="https://holopin.io/@adityakjoshi2004"> <img src="https://holopin.me/adityakjoshi2004" alt="@adityakjoshi2004 Holopin board"/> </a> </p>
 
 ---
 
