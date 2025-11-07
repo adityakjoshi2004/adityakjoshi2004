@@ -1,40 +1,43 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4c9aff;">Aditya Kumar Joshi</span></h1>
-<h3 align="center">🚀 Machine Learning Engineer | 💻 Full Stack Developer | 🎓 CSE Student @ IES IPS Academy</h3>
+<h1 align="center"> Hi, I'm <span style="color:#4c9aff;">Aditya Kumar Joshi</span></h1>
+<h3 align="center"> Machine Learning Engineer |  Full Stack Developer |  CSE Student @ IES IPS Academy</h3>
 
 ---
 
-## 🌟 About Me  
+##  About Me  
 
 I'm a passionate developer and problem solver who loves blending **AI**, **Deep Learning**, and **Full Stack Development** to build real-world impactful solutions.  
 Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Academy, Indore**, I focus on creating intelligent systems powered by **Transformers, Computer Vision, and Modern Web Frameworks**.
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
-### 💡 **Machine Learning Engineer Intern** — *Technouniverse Softtech India Pvt. Ltd.*  
+###  **Machine Learning Engineer Intern** — *Technouniverse Softtech India Pvt. Ltd.*  
 📍 Indore, Madhya Pradesh | 🗓 May 2025 – July 2025  
 - Developed an MVP for a **Smart Attendance System** using **Face Detection & Recognition** (OpenCV, Transformers).  
 - Integrated **FastAPI** backend with **React** frontend for seamless real-time attendance automation.  
 
-### 💻 **Full Stack Developer** — *IES IPS Academy*  
+###  **Full Stack Developer** — *IES IPS Academy*  
 📍 Indore, Madhya Pradesh | 🗓 May 2024 – April 2025  
 - Designed and maintained the **College Management System (CMS)** using **PHP CodeIgniter**.  
 - Built new modules for **Faculty Development Program (FDP)** and **Research Paper Management**.  
 
 ---
 
-## 🧠 Skills  
+<p align="center"> <a href="https://holopin.io/@adityakjoshi2004"> <img src="https://holopin.me/adityakjoshi2004" alt="@adityakjoshi2004 Holopin board"/> </a> </p>
 
-### 🖥️ Programming Languages  
+---
+##  Skills  
+
+###  Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Tools  
+###  Frameworks & Tools  
 ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,7 +48,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
-### 🧠 ML & AI Libraries  
+###  ML & AI Libraries  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,7 +58,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 
 ---
 
-## 🧩 Projects  
+##  Projects  
 
 ### 🔹 [Smart Attendance Marking System](#)
 **Tech:** FastAPI, React, DeepFace, FaceNet  
@@ -77,30 +80,27 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 - A personal finance tracker offering **investment insights** and **real-time updates**.  
 - Integrated Google Sheets API for data synchronization and record management.
 
----
 
-<p align="center"> <a href="https://holopin.io/@adityakjoshi2004"> <img src="https://holopin.me/adityakjoshi2004" alt="@adityakjoshi2004 Holopin board"/> </a> </p>
 
----
+##  Education  
 
-## 🎓 Education  
-
-🎓 **Bachelor of Technology (CSE)**  
+ **Bachelor of Technology (CSE)**  
 📍 IES IPS Academy, Indore  
-📅 *Expected Graduation: May 2026*
+ *Expected Graduation: May 2026*
 
 ---
 
-## 🏅 Certifications & Leadership  
+##  Certifications & Leadership  
 
-🏆 Certified in **Python Programming**  
-🏆 Certified in **Database Management Systems (DBMS)**  
-👨‍💼 **Non-Tech Team Lead**, Google Developers Group (GDG) on Campus  
-🎤 **Curation Team Lead**, Bad Talks  
+ Oracle certified GenAI Professional 2025
+ Certified in **Python Programming**  
+ Certified in **Database Management Systems (DBMS)**  
+ **Non-Tech Team Lead**, Google Developers Group (GDG) on Campus  
+ **Curation Team Lead**, Bad Talks  
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityakjoshi2004&show_icons=true&theme=tokyonight" alt="Aditya's GitHub stats" height="165"/>
@@ -112,7 +112,7 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="mailto:adityakjoshi01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -122,4 +122,4 @@ Currently pursuing **B.Tech in Computer Science Engineering** at **IES IPS Acade
 
 ---
 
-⭐ **"Building AI-powered systems that make technology more human."**
+ **"Building AI-powered systems that make technology more human."**
